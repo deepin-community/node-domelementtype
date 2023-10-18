@@ -1,3 +1,13 @@
+node-domelementtype (2.3.0-1) unstable; urgency=medium
+
+  * Team upload
+  * Fix filenamemangle
+  * Drop dependency to nodejs
+  * New upstream version 2.3.0
+  * Build ES files
+
+ -- Yadd <yadd@debian.org>  Tue, 12 Apr 2022 18:12:50 +0200
+
 node-domelementtype (2.2.0-2) unstable; urgency=medium
 
   * Team upload
